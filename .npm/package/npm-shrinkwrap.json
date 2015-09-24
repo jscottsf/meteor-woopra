@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "woopra": {
+      "version": "0.2.0"
+    }
+  }
+}
